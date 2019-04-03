@@ -1,0 +1,16 @@
+/coverage
+/demo
+/demo/build
+/demo/node_modules
+/es6
+/lib
+/node_modules
+/umd
+/.nyc_output
+/.idea
+/.bit
+.DS_Store
+npm-debug.log
+coverage.lcov
+codecov.yml
+yarn-error.log

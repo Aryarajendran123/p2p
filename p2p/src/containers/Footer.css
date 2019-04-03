@@ -1,0 +1,9 @@
+.footer {
+    width: 100%;
+    height: auto;
+    text-align: right;
+    background: rgb(59, 67, 79);
+    position: fixed;
+    bottom: 0%;
+    margin-top: 50%;
+}

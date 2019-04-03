@@ -1,0 +1,70 @@
+
+
+/* Add padding to containers */
+.conntainer {
+  /* text-align: left; */
+  padding: 16px;
+  background-image: linear-gradient(top, #f1f3f3, #d4dae0);
+  background-size: 800px 850px;
+  background-color: white;
+  margin-top:70px;
+  margin-left: 250px;
+  margin-right: 250px;
+  width: 800px;
+  height: 850px;
+  background-repeat: no-repeat;
+  background-size: 180%;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=password], input[type=Email], input[type=date], input[type=mobile], input[type=digit] {
+  width: 50%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus , input[type=Email]:focus, input[type=digit]:focus, input[type=date]:focus, input[type=mobile]:focus{
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Overwrite default styles of hr */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+/* Set a style for the submit button */
+input[type=submit] {
+  background-color: #02042c;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 52%;
+  opacity: 0.9;
+}
+
+.registerbtn:hover {
+  opacity: 1;
+}
+
+/* Add a blue text color to links */
+a {
+  color: dodgerblue;
+}
+
+/* Set a grey background color and center the text of the "sign in" section */
+.signin {
+  background-color: #f1f1f1;
+  text-align: center;
+}
+
+.errorMsg {
+  color: #cc0000;
+  margin-bottom: 12px;
+}

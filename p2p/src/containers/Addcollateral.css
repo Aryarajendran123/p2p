@@ -1,0 +1,40 @@
+.adcol {
+    /* text-align: left; */
+    padding: 16px;
+    background-image: linear-gradient(top, #f1f3f3, #d4dae0);
+    /* background-size: 200px 250px; */
+    /* background-color: white; */
+    margin-top:10px;
+    margin-left: 250px;
+    margin-right: 50px;
+    width: 600px;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+.adcol input[type=text]{
+    width: 20%;
+    height: 1%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+}
+.adcol input[type=submit] {
+    background-color: #02042c;
+    text-align: center;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+    opacity: 0.9;
+  }
+  .adcol h1{
+    color: black;
+    font-family: verdana;
+    font-size: 15
+    0%;
+  }

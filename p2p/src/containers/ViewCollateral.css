@@ -1,0 +1,25 @@
+
+  .adcol1 input[type=submit] {
+    background-color: #02042c;
+    text-align: center;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+  }
+  .adcol1 h1{
+    color: black;
+    font-family: verdana;
+    font-size: 15
+0%;
+  }
+  .adcol1 table{
+    background-color: #CCC
+    ;
+    align-items: center;
+    width: 60%;
+    text-align: center;
+  }

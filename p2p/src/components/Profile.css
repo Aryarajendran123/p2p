@@ -1,0 +1,14 @@
+.card{
+    display: block;
+   
+    width: 450px;
+    height: 200px;
+    padding: 10px;
+    margin: 12px;
+}
+.one{
+    border: 1px solid #999;
+    width: 1200px;
+    height:100px;
+    background-color: #00FF00;
+}   
